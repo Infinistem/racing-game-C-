@@ -1,2 +1,2 @@
-# 2048-in-Java-
+# Gomoku-java
 A Java project 

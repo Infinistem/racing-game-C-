@@ -1,2 +1,2 @@
-# Racing-game-java
-A Java project. See main profile page for details on when i will resume my other projects
+# Racing-game-python
+A simple 3d racing game in python with basic rendering

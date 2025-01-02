@@ -1,2 +1,2 @@
 # Racing-game-python
-A simple 3d racing game in python with basic rendering
+A simple 3d racing game in java with basic rendering
